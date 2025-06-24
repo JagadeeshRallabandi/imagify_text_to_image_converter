@@ -1,0 +1,6 @@
+------ Client -----
+Tailwind Setup
+1.npm install -D tailwindcss@3 postcss autoprefixer
+2.npx tailwindcss init -p
+To create Multiple pages we install react router dom
+3.npm install react-router-dom
