@@ -18,7 +18,8 @@ const Header = () => {
         the magic happen.</p>
 
         <button className='sm:text-lg text-white bg-black w-auto mt-8
-        px-12 py-2.5 flex items-center gap-2 rounded-full'>
+        px-12 py-2.5 flex items-center gap-2 rounded-full hover:scale-105
+        transition-all duration-500'>
         Generate Images
         <img className='h-6' src={assets.star_group} alt=""/></button>
 
