@@ -4,3 +4,5 @@ Tailwind Setup
 2.npx tailwindcss init -p
 To create Multiple pages we install react router dom
 3.npm install react-router-dom
+To include framer-motion
+npm install motion
