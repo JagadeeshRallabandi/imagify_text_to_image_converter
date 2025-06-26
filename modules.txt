@@ -6,3 +6,18 @@ To create Multiple pages we install react router dom
 3.npm install react-router-dom
 To include framer-motion
 npm install motion
+
+
+
+------- Server -----
+npm i express
+      cors- allow us to connect to frontend
+      dotenv
+      nodemon --restart the backend server when code changes
+      form-data 
+      jsonwebtoken --authentication in our project
+      mongoose --to connect with mongodb database
+      axios --which helps to make the API calls
+      bcrypt -- to encrypt the password
+      razorpay --online payment gateway
+      
